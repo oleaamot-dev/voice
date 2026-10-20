@@ -1,0 +1,6 @@
+gnome-voice 51.0
+================
+ * GStreamer recording (Opus in Ogg) with a live Voicegram level display
+ * Voicegram XML stored in ~/GNOME.voice
+ * Upload and download of voice messages to gnomevoice.org over HTTPS (OpenSSL, TLS 1.2+)
+ * GNU autotools build system

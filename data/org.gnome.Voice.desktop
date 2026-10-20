@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME Voice
+Comment=Record, send and receive voice messages
+Exec=gnome-voice
+Icon=audio-input-microphone-symbolic
+Terminal=false
+Categories=GNOME;GTK;AudioVideo;Audio;Recorder;
+StartupNotify=true
